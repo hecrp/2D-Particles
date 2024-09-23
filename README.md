@@ -5,7 +5,7 @@ An interactive 2D particle flow visualization project using p5.js. 🎨🖌️
 
 ### Preview
 
-![Screenshot](https://i.imgur.com/EErjpLY.gif)
+![Screenshot](preview.gif)
 
 ## Description
 

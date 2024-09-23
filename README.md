@@ -6,6 +6,8 @@ An interactive 2D particle flow visualization project using p5.js. 🎨🖌️
 
 I'm learning p5.js driven by curiosity. This is a project to explore and understand the library by creating a 2D particle flow visualization. It combines various effects such as noise-based movement, color transitions, fireworks, and interactive mouse effects like swirling and attracting to create a dynamic and engaging visual experience. 🌟🔮
 
+Check out the [the repository page](https://hecrp.github.io/2D-Particles/) to navigate the current implementation.
+
 ## Features
 
 - Dynamic particle system with customizable parameters 🔧
